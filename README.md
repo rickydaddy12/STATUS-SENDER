@@ -20,30 +20,56 @@
    - You will get a session ID in WhatsApp, copy the ID only.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**p
 </p>
-🌟 𝗗𝗘𝗫𝗧𝗘𝗥 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
+🌟 𝗥𝗖𝗗 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
 
-<a href="/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
+<a href="https://rcd-md-qr-link.onrender.com/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="RCD WEB SITE" width="250"></a>
 
 **`𝗥𝗖𝗗 𝗠𝗗 𝗕𝗢𝗧`**
 
 ##  PAIRING CODE SCAN
 
-<a href="https://dexter-md.onrender.com/"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://rcd-md-pair-new.onrender.com"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-red" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fpurnapurna2007%2FSend2%3Ftab%3Dreadme-ov-file&template=https://github.com/DEXTER-BOTS/STATUS-SENDER)
+ 
+##  DEPLOY RENDER
+# <a href="https://dashboard.render.com/web/new"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=red&style=for-the-badge&logo=msi"></a>
+ 
+<br><br>
+
+```
+SESSION_ID
+```
+```
+AUTO_READ_STATUS
+```
+```
+PREFIX
+```
+```
+MODE
+```
+```
+WAPRESENCE
+```
+```
+OWNER_NAME
+```
+```
+OWNER_NUMBER
+```
+```
+IMAGE
+```
+# <a href="https://uptimerobot.com/signUp?ref=hp-hero"><img title="railway" src="https://img.shields.io/badge/UPTIME ROBOT-h?color=red&style=for-the-badge&logo=msi"></a>
 
 ##  DEPLOY SCALINGO
 # <a href="https://auth.scalingo.com/users/sign_up"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON SCALINGO-h?color=red&style=for-the-badge&logo=msi"></a>
 
 ##  DEPLOY RAILWAY
 # <a href="https://railway.app/template/9oodXq?referralCode=JWglkx"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
-
-
-   </details>
-</P>
-
 
 Contributions to RCD-Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
@@ -55,4 +81,3 @@ Enjoy the diverse features of the RCD-MD  to enhance your conversations and make
 
 ## Developer:
 - [**WhatsApp**](https://wa.me/94789958225)
-
